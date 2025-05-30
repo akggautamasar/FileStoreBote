@@ -5,5 +5,4 @@ humanize
 psutil
 motor
 markdown
-asyncio
 TgCrypto
