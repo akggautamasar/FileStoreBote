@@ -7,7 +7,7 @@
         "workers": 8,
         "db_uri": "mongodb+srv://Akggautam:Akgs@cluster0.8msp2ne.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "db_name": "Cluster0",
-        "fsubs": [[-1002074478106, false, 5]],
+        "fsubs": [[-1002611151642, true, 5]],
         "db": -1002611151642,
         "auto_del": 0,
         "messages": {
